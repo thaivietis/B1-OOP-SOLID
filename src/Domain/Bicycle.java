@@ -1,4 +1,4 @@
-package Domain_1;
+package Domain;
 
 public class Bicycle extends Car {
     @Override
